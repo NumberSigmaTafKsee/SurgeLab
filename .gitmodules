@@ -1,0 +1,9 @@
+[submodule "surge"]
+	path = surge
+	url = https://github.com/surge-synthesizer/surge
+[submodule "surge-python"]
+	path = surge-python
+	url = https://github.com/surge-synthesizer/surge-python
+[submodule "surge-rack"]
+	path = surge-rack
+	url = https://github.com/surge-synthesizer/surge-rack
