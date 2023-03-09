@@ -4,3 +4,4 @@
 * If you like it you can do what you want with it
 * It already has a python connection
 * You can also use it in VCV Rack
+* It is a very good synthesizer
